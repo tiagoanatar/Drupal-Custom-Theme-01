@@ -1,0 +1,9 @@
+name = Simple Drupal Demonstration Theme
+
+description = test.
+
+core = 7.x
+
+version = VERSION
+
+stylesheets[screen][] = style.css
